@@ -1,0 +1,7 @@
+name: Party
+version: '${project.version}'
+main: de.freddo.party.Party
+api-version: 1.18
+
+commands:
+  party:
